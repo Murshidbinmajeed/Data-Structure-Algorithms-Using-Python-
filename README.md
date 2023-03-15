@@ -1,0 +1,1 @@
+# I already have studied the algorithms of stack,queue and Binary Search Tree from my academics so I converted it into python code. For stack and queue I have simply created a list and done the operations, But for the Binary Search Tree we have to use class to create node. 
